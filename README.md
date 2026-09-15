@@ -15,4 +15,4 @@ Este proyecto corresponde al segundo hito del curso de **React**, donde se profu
 - **Renderizado Condicional:** Lógica de JavaScript para mostrar componentes específicos según la interacción del usuario.
 
 ## Estudiante
-- Jesus Gonzalez
+- Marcelo Flores
